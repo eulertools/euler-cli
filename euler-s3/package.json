@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/inquirer": "^8.2.1",
     "@types/node": "^17.0.23",
-    "rollup": "^2.3.3",
+    "rollup": "^2.80.0",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-node-resolve": "^5.2.0",
